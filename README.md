@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Pra mais informação sobre os projetos, dê uma olhada
  
 <div> 
   <a href="https://youtube.com/@hibiswx?si=gEGYhcQX5HhHJ5MR" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
