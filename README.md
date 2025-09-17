@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da tahwnfer 😁
+## Bem-vindo(a) ao perfil da tahwnfer 👾
 
  <div>
    <a href="https://github.com/tahwnfer">
@@ -14,11 +14,10 @@
  
 <br>
  
-### Pra mais informação sobre os projetos, dê uma olhada.
- 
+### Pra mais informação sobre os projetos, dê uma olhada. 
+
+ ## redes
 <div> 
   <a href="https://youtube.com/@hibiswx?si=gEGYhcQX5HhHJ5MR" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/loiraawx_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/4v9S9Gqn" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- 
 </div>
