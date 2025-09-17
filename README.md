@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra mais informação sobre os projetos, dê uma olhada. 
+### Pra mais informação sobre os projetos, dê uma olhada 😉. 
 
  ## redes
 <div> 
