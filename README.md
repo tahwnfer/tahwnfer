@@ -37,8 +37,8 @@
 
 ## 🌊 Encontre-me nos Mares
 
-[![YouTube](https://img.shields.io/badge/YouTube-e94560?style=for-the-badge&logo=youtube&logoColor=white)](https:https://www.youtube.com/@Hibiswx)
-[![Instagram](https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=0d1117)](https:https://www.instagram.com/eaeloiraax/)
+[![YouTube](https://img.shields.io/badge/YouTube-e94560?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Hibiswx)
+[![Instagram](https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=0d1117)](https://www.instagram.com/eaeloiraax/)
 
 
 ---
