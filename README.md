@@ -39,7 +39,7 @@
 ## 🌊 Encontre-me nos Mares
 
 [![YouTube](https://img.shields.io/badge/youtube.com/@hibiswx?si=gEGYhcQX5HhHJ5MR&logoColor=white)](https://youtube.com/SEU_CANAL)
-[![Instagram](https://img.shields.io/badge/www.instagram.com/loiraawx_/&logoColor=0d1117)](https://instagram.com/SEU_PERFIL)
+[![Instagram](https://img.shields.io/badge/[www.instagram.com/loiraawx_/&logoColor=0d1117](https://www.instagram.com/eaeloiraax/))](https://instagram.com/SEU_PERFIL)
 
 
 ---
