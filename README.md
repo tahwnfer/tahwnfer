@@ -27,7 +27,6 @@
 ## ⚔️ Tripulação de Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=0d1117)
-![Python](https://img.shields.io/badge/Python-e94560?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-0f3460?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-FFD700?style=for-the-badge&logo=node.js&logoColor=0d1117)
 ![Git](https://img.shields.io/badge/Git-e94560?style=for-the-badge&logo=git&logoColor=white)
@@ -38,8 +37,8 @@
 
 ## 🌊 Encontre-me nos Mares
 
-[![YouTube](https://img.shields.io/badge/YouTube-e94560?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/SEU_CANAL)
-[![Instagram](https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=0d1117)](https://instagram.com/SEU_PERFIL)
+[![YouTube](https://img.shields.io/badge/YouTube-e94560?style=for-the-badge&logo=youtube&logoColor=white)](https://https://www.youtube.com/@Hibiswx)
+[![Instagram](https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=0d1117)](https://https://www.instagram.com/eaeloiraax/)
 
 
 ---
